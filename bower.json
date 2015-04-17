@@ -1,7 +1,7 @@
 {
-  "name": "normalize-css",
+  "name": "normalize-scss",
   "version": "3.0.3",
-  "main": "normalize.css",
+  "main": "normalize.scss",
   "author": "Nicolas Gallagher",
   "ignore": [
     "CHANGELOG.md",
