@@ -5,7 +5,7 @@
   "style": "normalize.scss",
   "files": [
     "LICENSE.md",
-    "normalize.css"
+    "normalize.scss"
   ],
   "homepage": "http://jacobmarshall.github.io/normalize.scss",
   "repository": {
